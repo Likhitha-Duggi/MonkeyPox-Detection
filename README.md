@@ -1,0 +1,2 @@
+# MonkeyPox
+Monkey pox detection
